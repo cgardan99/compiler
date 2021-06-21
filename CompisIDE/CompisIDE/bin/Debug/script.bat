@@ -1,0 +1,1 @@
+lexico.exe document.ty

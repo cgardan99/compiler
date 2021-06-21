@@ -1,0 +1,18 @@
+
+C:\Users\cgardan\Downloads\Compis IDE\ANTLR>set arg1=antlr_document.ty 
+
+C:\Users\cgardan\Downloads\Compis IDE\ANTLR>java -jar antlr-4.9.2-complete.jar tiny.g4 
+
+C:\Users\cgardan\Downloads\Compis IDE\ANTLR>javac -cp ".;C:/ANTLR/antlr-4.9.2-complete.jar" tiny*.java 
+
+C:\Users\cgardan\Downloads\Compis IDE\ANTLR>javac -cp ".;C:/ANTLR/antlr-4.9.2-complete.jar" *.java 
+
+C:\Users\cgardan\Downloads\Compis IDE\ANTLR>java -cp ".;C:/ANTLR/antlr-4.9.2-complete.jar" ASTGenerator antlr_document.ty 
+
+
+ |  |  |  | assign -> x=0;
+ |  |  |  |  | var -> 0
+ |  |  | assign -> y=4;
+ |  |  |  | var -> 4
+ |  | assign -> z=20;
+ |  |  | var -> 20

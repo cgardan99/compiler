@@ -1,0 +1,69 @@
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe.config
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.pdb
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csprojAssemblyReference.cache
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.Form1.resources
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.Properties.Resources.resources
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.GenerateResource.cache
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CoreCompileInputs.cache
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.exe
+C:\Users\px100\Desktop\Window form IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.pdb
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe.config
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.pdb
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csprojAssemblyReference.cache
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.Properties.Resources.resources
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.GenerateResource.cache
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CoreCompileInputs.cache
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.exe
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.pdb
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CopyComplete
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.IDE.resources
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csprojAssemblyReference.cache
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\obj\Debug\CompisIDE.IDE.resources
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\obj\Debug\CompisIDE.Properties.Resources.resources
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.GenerateResource.cache
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CoreCompileInputs.cache
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\obj\Debug\CompisIDE.exe
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\obj\Debug\CompisIDE.pdb
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe.config
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\bin\Debug\CompisIDE.pdb
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\bin\Debug\System.Management.Automation.dll
+C:\Users\px100\Desktop\Script\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CopyComplete
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe.config
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.pdb
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\bin\Debug\System.Management.Automation.dll
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.IDE.resources
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.Properties.Resources.resources
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.GenerateResource.cache
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CoreCompileInputs.cache
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CopyComplete
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.exe
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.pdb
+C:\Users\px100\Desktop\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.AssemblyReference.cache
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe.config
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.pdb
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\bin\Debug\System.Management.Automation.dll
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csprojAssemblyReference.cache
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.IDE.resources
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.Properties.Resources.resources
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.GenerateResource.cache
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CoreCompileInputs.cache
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CopyComplete
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.exe
+C:\Users\cgardan\Downloads\Compis IDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.pdb
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe.config
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.exe
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\bin\Debug\CompisIDE.pdb
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\bin\Debug\System.Management.Automation.dll
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csprojAssemblyReference.cache
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.IDE.resources
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.Properties.Resources.resources
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.GenerateResource.cache
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CoreCompileInputs.cache
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.csproj.CopyComplete
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.exe
+C:\Users\cgardan\Downloads\CompisIDE\CompisIDE\CompisIDE\obj\Debug\CompisIDE.pdb

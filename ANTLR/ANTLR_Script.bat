@@ -1,0 +1,1 @@
+cmd.cmd antlr_document.ty > salida.txt
